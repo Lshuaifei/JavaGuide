@@ -695,7 +695,7 @@ private static class IntegerCache {
     static final int high;
     static {
         // high value may be configured by property
-        int h = 127;
+        int high = 127;
     }
 }
 ```
